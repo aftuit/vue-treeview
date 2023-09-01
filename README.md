@@ -1,9 +1,9 @@
 # Vue Tree View in Vue.js
 
 About:
-```bash
-The Vue Tree View is a graphical user interface component that allows you to represent hierarchical data in a tree structure
-```
+
+## The Vue Tree View is a graphical user interface component that allows you to represent hierarchical data in a tree structure
+
 - Tailwind CSS
 - Ready out of the box!
 - Font Awesome icons
